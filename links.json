@@ -1,0 +1,22 @@
+{
+  "bitcoin": {
+    "address": "1AbCdEfGhIjKlMnOpQrStUvWxYz",
+    "url": "https://example.com/bitcoin"
+  },
+  "ethereum": {
+    "address": "0xAbCdEfGhIjKlMnOpQrStUvWxYz",
+    "url": "https://example.com/ethereum"
+  },
+  "monero": {
+    "address": "4AbCdEfGhIjKlMnOpQrStUvWxYz",
+    "url": "https://example.com/monero"
+  },
+  "paypal": {
+    "username": "example.paypal.username",
+    "url": "https://example.com/paypal"
+  },
+  "cashapp": {
+    "username": "$travisodellart",
+    "url": "https://example.com/cashapp"
+  }
+}
